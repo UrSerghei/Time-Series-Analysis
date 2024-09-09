@@ -1,0 +1,4 @@
+PyQt
+MACD
+AdaBoost
+CatBoost
